@@ -1,9 +1,9 @@
 <h1 align="center">Hi, World! i'm Janine ^_~</h1>
 <h3 align="center">Welcome here!</h3>
 
-- 🌱 I’m currently learning **Inglês, JS, Css,HTML & Python.**
+- 🩶 I’m currently learning ** JS, Css,HTML & Python.**
 
-- 📫 How to reach me **janinednpp@gmail.com**
+- ✉️ How to reach me **janinednpp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
